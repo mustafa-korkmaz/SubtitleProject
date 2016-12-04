@@ -10,5 +10,6 @@ override lint path in workspace settings
 install lint
 create helloworld.py 
 run .py file
-
+create git local repo 
+create git remote repo and sync with local
 contiune with django sample docs (i am here)
