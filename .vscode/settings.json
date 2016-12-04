@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+     // Path to Pylint, you can use a custom version of pylint by modifying this setting to include the full path.
+    "python.linting.pylintPath": "C:\\Users\\mustafa\\Desktop\\Projects\\GitProjects\\SubtitleProject\\Scripts\\pylint"
+}

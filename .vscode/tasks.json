@@ -1,0 +1,6 @@
+{
+    "version": "0.1.0",
+    "command": "C:\\Users\\mustafa\\Desktop\\Projects\\GitProjects\\SubtitleProject\\Scripts\\python",
+    "args": ["${fileBasename}"],
+    "showOutput": "always"
+}

@@ -1,0 +1,14 @@
+install python
+install pip
+make virtualenv
+install django
+install mysqlclient
+create sample database
+install vscode python extension
+create tasks.json
+override lint path in workspace settings
+install lint
+create helloworld.py 
+run .py file
+
+contiune with django sample docs (i am here)
