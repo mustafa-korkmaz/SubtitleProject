@@ -12,4 +12,5 @@ create helloworld.py
 run .py file
 create git local repo 
 create git remote repo and sync with local
-contiune with django sample docs (i am here)
+contiune with django sample docs
+http://djangobook.com/django-templates/ (here)
